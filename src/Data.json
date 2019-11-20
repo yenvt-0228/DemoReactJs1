@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "yen",
+    "tel": "0123",
+    "permission": "admin"
+  },
+  {
+    "id": 2,
+    "name": "mi",
+    "tel": "0123",
+    "permission": "user"
+  },
+  {
+    "id": 3,
+    "name": "ni",
+    "tel": "0123",
+    "permission": "user"
+  },
+  {
+    "id": 4,
+    "name": "vi",
+    "tel": "0123",
+    "permission": "user"
+  },
+  {
+    "id": 5,
+    "name": "ri",
+    "tel": "0123",
+    "permission": "user"
+  }
+]
