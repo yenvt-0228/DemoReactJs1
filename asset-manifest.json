@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yenvt-0228/DemoReactJs1/static/css/main.2cce8147.chunk.css",
-    "main.js": "/yenvt-0228/DemoReactJs1/static/js/main.438fae12.chunk.js",
-    "main.js.map": "/yenvt-0228/DemoReactJs1/static/js/main.438fae12.chunk.js.map",
-    "runtime~main.js": "/yenvt-0228/DemoReactJs1/static/js/runtime~main.0cccca5d.js",
-    "runtime~main.js.map": "/yenvt-0228/DemoReactJs1/static/js/runtime~main.0cccca5d.js.map",
-    "static/js/2.e4e2ba8c.chunk.js": "/yenvt-0228/DemoReactJs1/static/js/2.e4e2ba8c.chunk.js",
-    "static/js/2.e4e2ba8c.chunk.js.map": "/yenvt-0228/DemoReactJs1/static/js/2.e4e2ba8c.chunk.js.map",
-    "index.html": "/yenvt-0228/DemoReactJs1/index.html",
-    "precache-manifest.66a4066930c8eef2ef157e31e2720ed6.js": "/yenvt-0228/DemoReactJs1/precache-manifest.66a4066930c8eef2ef157e31e2720ed6.js",
-    "service-worker.js": "/yenvt-0228/DemoReactJs1/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/yenvt-0228/DemoReactJs1/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/DemoReactJs1/static/css/main.2cce8147.chunk.css",
+    "main.js": "/DemoReactJs1/static/js/main.2d1f19cd.chunk.js",
+    "main.js.map": "/DemoReactJs1/static/js/main.2d1f19cd.chunk.js.map",
+    "runtime~main.js": "/DemoReactJs1/static/js/runtime~main.2e4e713c.js",
+    "runtime~main.js.map": "/DemoReactJs1/static/js/runtime~main.2e4e713c.js.map",
+    "static/js/2.e4e2ba8c.chunk.js": "/DemoReactJs1/static/js/2.e4e2ba8c.chunk.js",
+    "static/js/2.e4e2ba8c.chunk.js.map": "/DemoReactJs1/static/js/2.e4e2ba8c.chunk.js.map",
+    "index.html": "/DemoReactJs1/index.html",
+    "precache-manifest.f3a158720fc5c1d6a25b2904b5ce7258.js": "/DemoReactJs1/precache-manifest.f3a158720fc5c1d6a25b2904b5ce7258.js",
+    "service-worker.js": "/DemoReactJs1/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/DemoReactJs1/static/css/main.2cce8147.chunk.css.map"
   }
 }
